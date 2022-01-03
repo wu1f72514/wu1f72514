@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm an IT Engineer who makes code (and others stuffs) !
+
 Linux-addict / Jetbrains's products fan / Raspberry Pi hobbyist 
 
 - 🔭 I’m currently working on a wonderfull web project who gonna change the world ;)
