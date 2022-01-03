@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm wu1f 👋
 
 <!--
 **wu1f72514/wu1f72514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an IT Engineer who makes code (and others stuffs) !
+
+- 🔭 I’m currently working on a wonderfull web project who gonna change the world ;)
