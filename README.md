@@ -19,4 +19,5 @@ I'm an IT Engineer who makes code (and others stuffs) !
 
 Linux-addict / Jetbrains's products fan / Raspberry Pi hobbyist 
 
-- 🔭 I’m currently working on a wonderfull web project who gonna change the world ;)
+- 🔭 I’m currently working on a website for a scouts's local groupe 
+- 🌱 I’m currently learning Hugo (Go), Docker
