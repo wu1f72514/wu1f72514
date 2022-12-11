@@ -19,5 +19,7 @@ I'm an IT Engineer who makes code (and others stuffs) !
 
 Linux-addict / Jetbrains's products fan / Raspberry Pi hobbyist 
 
-- 🔭 I’m currently working on a website for a scouts's local groupe 
+- 🔭 I’m currently working on a website for a scouts's local groupe [✨ will be launch in january 2023]
+- 🔭 I just be named in charge of communication stuffs for a local children's nursery
 - 🌱 I’m currently learning Hugo (Go), Docker
+- ⚡ Scout chief in Farfadet section (6-8) for Scouts et Guides De France
